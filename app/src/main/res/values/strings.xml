@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">APP_UNIDAD1_UDC</string>
+    <string name="ent_sueldo"> Ingrese Sueldo Base  </string>
+    <string name="horas_extras"> Horas Extras (si no tiene escribir numero 0)  </string>
+    <string name="bonificacion"> Bonificacion (si no tiene escribir numero 0)  </string>
+    <string name="sueldo_total">  Sueldo Total </string>
+    <string name="btn_calcular">  Calcular Sueldo  </string>
+
+
+</resources>
